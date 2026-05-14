@@ -1,0 +1,66 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Android / Gradle generated files
+.gradle/
+build/
+*/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Android Studio local files
+.idea/
+*.iml
+
+# Local computer settings
+local.properties
+
+# Logs
+*.log
+
+# Kotlin
+.kotlin/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Signing keys - never push
+*.jks
+*.keystore
+*.p12
+*.pem
+
+# Environment files
+.env
+backend/.env
+
+# Firebase private admin keys - never push
+*serviceAccount*.json
+firebase-adminsdk*.json
+
+# Node / backend generated files
+backend/node_modules/
+node_modules/
+
+# Extra logs
+build*.log
+compile_log*.txt
+

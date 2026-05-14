@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "440838041007",
+    "project_id": "silloramobileapp",
+    "storage_bucket": "silloramobileapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440838041007:android:da3276829c3aeae230d35a",
+        "android_client_info": {
+          "package_name": "com.example.silloramobileapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq0SL6ETUUB6A6N2Uh5lzgOLCJy4sNXts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
